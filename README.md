@@ -120,3 +120,4 @@ $ clang -I<path to libclcxx build or install location>/include test.clcpp
 		To clean the copied ``opencl_<>`` libclcxx source files from your system libcxx installation (if relevant), you can run ``<generator> clean-libclcxx``.
 
 		To clean everything, including build files, Doxygen documentation, compiled test objects and (if relevant) copied libclcxx source files, you can run ``<generator> clean-all``. **Warning, this will clean your build directory!**
+Created by Jason Scott Heise
